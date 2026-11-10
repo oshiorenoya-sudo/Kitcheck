@@ -18,7 +18,7 @@ def check_names():
     
     print(f"These are the incorrect names: {incorrect_names}" )
     
-    return incorrect_names
+    return incorrect_names 
             
             
 
